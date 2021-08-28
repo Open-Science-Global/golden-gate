@@ -1,0 +1,11 @@
+LOCUS       ACL_Start                317 bp ds-DNA     linear       27-AUG-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 AACGATGATG CTCACTCTCG tcGGTCTCaA TGAGAATTCg caTCTAGAgc ctagcacagg
+       61 tcagtgcttt gacgggagtc gttagttgca cccatagggc cagagcactg cgcgtattac
+      121 actacatcca tgacttataa tgagtggccc tcagcgcacg gcgtggcacc gcatacaaga
+      181 cgaatacctc tGAAGACacG GAGactggcc gataattgca gacgGGAGtG AGACCagATA
+      241 CTGTAAGAAC CACGCGGGAG CGTTCGCCAG AAGTGCGATA GGGATAACAG GGTAATCTCC
+      301 GGGAATATAA ACGGTGA
+//

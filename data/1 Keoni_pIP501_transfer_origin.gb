@@ -1,0 +1,101 @@
+LOCUS       1:_Keoni_pIP501_transfer 470 bp ds-DNA     linear       27-AUG-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     Match           16..21
+                     /label="Forbidden sequence | GAAGAC"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     misc_feature    24..27
+                     /label="2"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    37..42
+                     /label="Bsai bind"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     Match           37..42
+                     /label="Forbidden sequence | GGTCTC"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     misc_feature    44..47
+                     /label="PG"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     terminator      complement(48..101)
+                     /label="ECK120010818"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    complement(102..107)
+                     /label="AddedStop"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     CDS             complement(102..122)
+                     /label="Translation 122-102"
+     gene            complement(107..122)
+                     /label="pRE25p23"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     CDS             complement(107..122)
+                     /label="orf?"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     exon            complement(107..122)
+                     /label="Translation 122-107"
+     misc_feature    107..425
+                     /label="oriT"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    194..227
+                     /label="TraN binding site"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    261..271
+                     /label="-35"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    279..316
+                     /label="plasmid transfer origin"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     oriT            complement(279..316)
+                     /label="pIP501 plasmid transfer origin"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     misc_feature    288..300
+                     /label="-10"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     misc_feature    426..429
+                     /label="ES"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     Match           431..436
+                     /label="Forbidden sequence | GAGACC"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    complement(431..436)
+                     /label="Bsai bind"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     misc_feature    complement(444..447)
+                     /label="6"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           450..455
+                     /label="Forbidden sequence | GTCTTC"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    complement(450..455)
+                     /label="BbsI Bind"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+ORIGIN
+        1 AGAGCCTTAT GGTCCGAAGA CAGGGAGTTG CGTGTTGGTC TCTCGAACCA AAAGTAAAAA
+       61 CCCGCCGAAG CGGGTTTTTA CGTAAAACAG GTGAAACTGA CTCACCgatc ttgattttcc
+      121 atgaaatacg cctcctaata tattgtgtaa ctctatcata ttatattatt tttctaaaat
+      181 caataaatat aaacggaaat gtcaggttaa acatatttac ttttataatg ataagtggta
+      241 aaattaattt attaaggatt cccttagatt atttactaag ggcgcactta tacgcagtaa
+      301 cttcgttact tcgtatttat gctataaaac ttaactgtta gttagtttta tcgtcaagcg
+      361 tgtttgttaa aattcgctac gctcatgttt gaaaagaaag agaggtgata caattggcaa
+      421 tcttcGCAAT GAGACCTGTA TTACGCTagG TCTTCCGGCT AGGTCAAATA
+//

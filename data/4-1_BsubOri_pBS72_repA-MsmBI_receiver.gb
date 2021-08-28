@@ -1,0 +1,491 @@
+LOCUS       4-1:_BsubOri_pBS72_repA 1751 bp ds-DNA     linear       27-AUG-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     Match           16..21
+                     /label="Forbidden sequence | GAAGAC"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     Match           16..21
+                     /label="Forbidden sequence | GAAGAC"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    16..21
+                     /label="BbsI bind"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     GG              24..27
+                     /label="1"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Match           36..41
+                     /label="Forbidden sequence | GGTCTC"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Match           36..41
+                     /label="Forbidden sequence | GGTCTC"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     misc_feature    36..41
+                     /label="BsaI bind"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     GG              43..46
+                     /label="FR"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    47..52
+                     /label="EcoRi"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     Match           47..52
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     Match           47..52
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           47..52
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     Match           47..52
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     misc_feature    53..341
+                     /label="pBS72 1410"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     FR              53..1586
+                     /label="pBS72 repA fragment"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     Match           391..396
+                     /label="Forbidden sequence | AAGCTT"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     Match           391..396
+                     /label="Forbidden sequence | AAGCTT"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     Match           391..396
+                     /label="Forbidden sequence | AAGCTT"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Match           391..396
+                     /label="Forbidden sequence | AAGCTT"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           472..477
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     Match           472..477
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     Match           472..477
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Match           472..477
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     Match           562..567
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     Match           562..567
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Match           562..567
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Match           562..567
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    562..1586
+                     /label="Titok 2006 minimal replication origin"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     Match           633..638
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           633..638
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     Match           633..638
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     Match           633..638
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     Match           658..663
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Match           658..663
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           658..663
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     Match           658..663
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     Match           704..709
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     Match           704..709
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Match           704..709
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     Match           704..709
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Match           709..718
+                     /label="Repeated sequence | TTAAAAAAAA"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     Match           709..718
+                     /label="Repeated sequence | TTAAAAAAAA"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           711..716
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     Match           711..716
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     Match           711..716
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     Match           711..716
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           841..846
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     Match           841..846
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     Match           841..846
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Match           841..846
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Match           852..857
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     Match           852..857
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     Match           852..857
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Match           852..857
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     CDS             1039..1586
+                     /label="Translation 1039-2002"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     exon            1039..1586
+                     /label="Translation 1039-1586"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     misc_feature    1039..1586
+                     /label="repA CDS"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     exon            1039..1586
+                     /label="Translation 1039-1586"
+     Match           1129..1134
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     Match           1129..1134
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     Match           1129..1134
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     Match           1129..1134
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Match           1133..1142
+                     /label="Repeated sequence | AAGGGAAAGA"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     Match           1133..1142
+                     /label="Repeated sequence | AAGGGAAAGA"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     Match           1134..1143
+                     /label="Repeated sequence | AGGGAAAGAA"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     Match           1134..1143
+                     /label="Repeated sequence | AGGGAAAGAA"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     Match           1186..1192
+                     /label="Forbidden sequence | GAAGAGC"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    1188..1191
+                     /label="Change reverted"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           1197..1202
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Match           1197..1202
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     Match           1197..1202
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     Match           1197..1202
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     Match           1197..1206
+                     /label="Repeated sequence | AAAAAACTTT"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     Match           1197..1206
+                     /label="Repeated sequence | AAAAAACTTT"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           1198..1207
+                     /label="Repeated sequence | AAAAACTTTT"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           1198..1207
+                     /label="Repeated sequence | AAAAACTTTT"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           1230..1239
+                     /label="Repeated sequence | TATACCTTAC"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Match           1230..1239
+                     /label="Repeated sequence | TATACCTTAC"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Match           1293..1298
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Match           1293..1298
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           1293..1298
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     Match           1293..1298
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Match           1390..1395
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     Match           1390..1395
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           1390..1395
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     Match           1390..1395
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     CDS             1585..1593
+                     /label="Translation 1585-1593"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     exon            1585..1593
+                     /label="Translation 1585-1593"
+     misc_feature    1587..1699
+                     /label="BsmBI stuffer"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Match           1588..1593
+                     /label="Forbidden sequence | GAGACG"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     terminator      1597..1686
+                     /label="ECK120029600 terminator"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           1600..1609
+                     /label="Repeated sequence | AGCCAAAAAA"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           1601..1610
+                     /label="Repeated sequence | GCCAAAAAAC"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Match           1602..1611
+                     /label="Repeated sequence | CCAAAAAACT"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           1603..1612
+                     /label="Repeated sequence | CAAAAAACTT"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     Match           1604..1609
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     Match           1604..1609
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     Match           1604..1609
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Match           1687..1692
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     misc_feature    1687..1692
+                     /label="EcoRi"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     Match           1687..1692
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     Match           1687..1692
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     Match           1687..1692
+                     /label="Forbidden sequence | GAATTC"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Match           1693..1698
+                     /label="Forbidden sequence | CGTCTC"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     Match           1700..1705
+                     /label="Forbidden sequence | ATCGAT"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    1700..1705
+                     /label="ClaI"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Match           1700..1705
+                     /label="Forbidden sequence | ATCGAT"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     GG              1706..1709
+                     /label="TS"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     Match           1711..1716
+                     /label="Forbidden sequence | GAGACC"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     Match           1711..1716
+                     /label="Forbidden sequence | GAGACC"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    complement(1711..1716)
+                     /label="Bsai bind"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     GG              1725..1728
+                     /label="6"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Match           1731..1736
+                     /label="Forbidden sequence | GTCTTC"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     Match           1731..1736
+                     /label="Forbidden sequence | GTCTTC"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(1731..1736)
+                     /label="BbsI bind"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+ORIGIN
+        1 AGAGCCTTAT GGTCCGAAGA CCCGGAGTTC CTAAGGGTCT CTAAAAGAAT TCAAAGTTTA
+       61 TACCTTACCT GGAACAAATG GTTGAAACAT ACGAGGCTAA TATCGGCTTA TTAGGAATAG
+      121 TCCCTGTACT AATAAAATCA GGTGGATCAG TTGATCAGTA TATTTTGGAC GAAGCTCGGA
+      181 AAGAATTTGG AGATGACTTG CTTAATTCCA CAATTAAATT AAGGGAAAGA ATAAAGCGAT
+      241 TTGATGTTCA AGGAATCACG GAAGAAGATA CTCATGATAA AGAAGCTCTA AAACTATTCA
+      301 ATAACCTTAC AATGGAATTG ATCGAAAGGG TGGAAGGTTA ATGGTACGAA AATTAGGGGA
+      361 TCTACCTAGA AAGCCACAAG GCGATAGGTC AAGCTTAAAG AACCCTTACA TGGATCTTAC
+      421 AGATTCTGAA AGTAAAGAAA CAACAGAGGT TAAACAAACA GAACCAAAAA GAAAAAAAGC
+      481 ATTGTTGAAA ACAATGAAAG TTGATGTTTC AATCCATAAT AAGATTAAAT CGCTGCACGA
+      541 AATTCTGGCA GCATCCGAAG GGAATTCATA TTACTTAGAG GATACTATTG AGAGAGCTAT
+      601 TGATAAGATG GTTGAGACAT TACCTGAGAG CCAAAAAACT TTTTATGAAT ATGAATTAAA
+      661 AAAAAGAACC AACAAAGGCT GAGACAGACT CCAAACGAGT CTGTTTTTTT AAAAAAAATA
+      721 TTAGGAGCAT TGAATATATA TTAGAGAATT AAGAAAGACA TGGGAATAAA AATATTTTAA
+      781 ATCCAGTAAA AATATGATAA GATTATTTCA GAATATGAAG AACTCTGTTT GTTTTTGATG
+      841 AAAAAACAAA CAAAAAAAAT CCACCTAACG GAATCTCAAT TTAACTAACA GCGGCCAAAC
+      901 TGAGAAGTTA AATTTGAGAA GGGGAAAAGG CGGATTTATA CTTGTATTTA ACTATCTCCA
+      961 TTTTAACATT TTATTAAACC CCATACAAGT GAAAATCCTC TTTTACACTG TTCCTTTAGG
+     1021 TGATCGCGGA GGGACATTAT GAGTGAAGTA AACCTAAAAG GAAATACAGA TGAATTAGTG
+     1081 TATTATCGAC AGCAAACCAC TGGAAATAAA ATCGCCAGGA AGAGAATCAA AAAAGGGAAA
+     1141 GAAGAAGTTT ATTATGTTGC TGAAACGGAA GAGAAGATAT GGACAGAAGA GCAAATAAAA
+     1201 AACTTTTCTT TAGACAAATT TGGTACGCAT ATACCTTACA TAGAAGGTCA TTATACAATC
+     1261 TTAAATAATT ACTTCTTTGA TTTTTGGGGC TATTTTTTAG GTGCTGAAGG AATTGCGCTC
+     1321 TATGCTCACC TAACTCGTTA TGCATACGGC AGCAAAGACT TTTGCTTTCC TAGTCTACAA
+     1381 ACAATCGCTA AAAAAATGGA CAAGACTCCT GTTACAGTTA GAGGCTACTT GAAACTGCTT
+     1441 GAAAGGTACG GTTTTATTTG GAAGGTAAAC GTCCGTAATA AAACCAAGGA TAACACAGAG
+     1501 GAATCCCCGA TTTTTAAGAT TAGACGTAAG GTTCCTTTGC TTTCAGAAGA ACTTTTAAAT
+     1561 GGAAACCCTA ATATTGAAAT TCCAGATGAG ACGtgaTTCA GCCAAAAAAC TTAAGACCGC
+     1621 CGGTCTTGTC CACTACCTTG CAGTAATGCG GTGGACAGGA TCGGCGGTTT TCTTTTCTCT
+     1681 TCTCAAGAAT TCCGTCTCtA TCGATAAGGT GAGACCATgc tagcCGCTGA GTCTTCCGGC
+     1741 TAGGTCAAAT A
+//

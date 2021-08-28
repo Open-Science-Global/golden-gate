@@ -1,0 +1,61 @@
+LOCUS       10a_T7TE-LuxIA_Terminato 187 bp ds-DNA     linear       27-AUG-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     Match           16..21
+                     /label="Forbidden sequence | GAAGAC"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     misc_feature    16..21
+                     /label="BbsI Bind"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     GG              24..27
+                     /label="1"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     Match           36..41
+                     /label="Forbidden sequence | GGTCTC"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     misc_feature    36..41
+                     /label="BsaI Bind"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     GG Overhang     43..46
+                     /label="TR"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     TR              47..141
+                     /label="B0014"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     GG Overhang     142..145
+                     /label="3C"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     Match           147..152
+                     /label="Forbidden sequence | GAGACC"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     misc_feature    complement(147..152)
+                     /label="Bsai bind"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     GG              161..164
+                     /label="6"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           167..172
+                     /label="Forbidden sequence | GTCTTC"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(167..172)
+                     /label="Bbsi bind"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+ORIGIN
+        1 AGAGCCTTAT GGTCCGAAGA CTTGGAGTGT CGGCGGGTCT CtGCTTTCAC ACTGGCTCAC
+       61 CTTCGGGTGG GCCTTTCTGC GTTTATATAC TAGAGAGAGA ATATAAAAAG CCAGATTATT
+      121 AATCCGGCTT TTTTATTATT TCGCTTGAGA CCTCCCTTGG CGCTACGTCT TCCGGCTAGG
+      181 TCAAATA
+//

@@ -1,0 +1,125 @@
+LOCUS       5:_CatA9                1056 bp ds-DNA     linear       27-AUG-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     GG              16..21
+                     /label="BbsI bind"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     Match           16..21
+                     /label="Forbidden sequence | GAAGAC"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     GG              24..27
+                     /label="1"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    36..40
+                     /label="BtgzI bind"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           36..41
+                     /label="Forbidden sequence | GCGATG"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     misc_feature    41..46
+                     /label="BsaI bind"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     Match           41..46
+                     /label="Forbidden sequence | GGTCTC"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     GG              48..51
+                     /label="TS"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     GG              52..55
+                     /label="-TS"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    complement(63..713)
+                     /label="CatA9 CDS"
+                     /ApEinfo_revcolor=#75c6a9
+                     /ApEinfo_fwdcolor=#75c6a9
+     CDS             complement(63..713)
+                     /label="Translation 706-56"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     exon            complement(63..713)
+                     /label="Translation 713-63"
+     misc_feature    complement(63..1001)
+                     /label="CatA9 fragment"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     Match           791..796
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    818..837
+                     /label="GC = 0"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Match           858..867
+                     /label="Repeated sequence | TCGTTTGTTG"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     Match           907..912
+                     /label="Forbidden sequence | AAAAAA"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Match           927..932
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     GG              1002..1005
+                     /label="-5C"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     GG              1006..1009
+                     /label="5C"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     Match           1011..1016
+                     /label="Forbidden sequence | GAGACC"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     GG              complement(1011..1016)
+                     /label="Bsai bind"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     Match           1016..1021
+                     /label="Forbidden sequence | CATCGC"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     GG              1030..1033
+                     /label="6"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           1036..1041
+                     /label="Forbidden sequence | GTCTTC"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(1036..1041)
+                     /label="Bbsi bind"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+ORIGIN
+        1 AGAGCCTTAT GGTCCGAAGA CGCGGAGGAT GGTATGCGAT GGTCTCTAAG GAGCGtctca
+       61 taTTATAAAA GCCAGTCATT AGGCCTATCT GACAATTCCT GAATAGAGTT CATAAACAAT
+      121 CCTGCATGAT AACCATCACA AACAGAATGA TGTACCTGTA AAGATAGCGG TAAATATATT
+      181 GAATTACCTT TATTAATGAA TTTTCCTGCT GTAATAATGG GTAGAAGGTA ATTACTATTA
+      241 TTATTGATAT TTAAGTTAAA CCCAGTAAAT GAAGTCCATG GAATAATAGA AAGAGAAAAA
+      301 GCATTTTCAG GTATAGGTGT TTTGGGAAAC AATTTCCCCG AACCATTATA TTTCTCTACA
+      361 TCAGAAAGGT ATAAATCATA AAACTCTTTG AAGTCATTCT TTACAGGAGT CCAAATACCA
+      421 GAGAATGTTT TAGATACACC ATCAAAAATT GTATAAAGTG GCTCTAACTT ATCCCAATAA
+      481 CCTAACTCTC CGTCGCTATT GTAACCAGTT CTAAAAGCTG TATTTGAGTT TATCACCCTT
+      541 GTCACTAAGA AAATAAATGC AGGGTAAAAT TTATATCCTT CTTGTTTTAT GTTTCGGTAT
+      601 AAAACACTAA TATCAATTTC TGTGGTTATA CTAAAAGTCG TTTGTTGGTT CAAATAATGA
+      661 TTAAATATCT CTTTTCTCTT CCAATTGTCT AAATCAATTT TATTAAAGTT CATTTGATAT
+      721 GCCTCCTAAA TTTTTATCTA AAGTGAATTT AGGAGGCTTA CTTGTCTGCT TTCTTCATTA
+      781 GAATCAATCC TTTTTTAAAA GTCAATATTA CTGTAACATA AATATATATT TTAAAAATAT
+      841 CCCACTTTAT CCAATTTTCG TTTGTTGAAC TAATGGGTGC TTTAGTTGAA GAATAAAGAC
+      901 CACATTAAAA AATGTGGTCT TTTGTGTTTT TTTAAAGGAT TTGAGCGTAG CGAAAAATCC
+      961 TTTTCTTTCT TATCTTGATA ATAAGGGTAA CTATTGCCGA TCTCCATGAT GAGACCATCG
+     1021 CTGCAATTCC GCTACGTCTT CCGGCTAGGT CAAATA
+//

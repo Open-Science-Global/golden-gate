@@ -1,0 +1,12 @@
+LOCUS       OYC_bridge_AGAC-CGAA     410 bp ds-DNA     linear       27-AUG-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 AAGAATTACT GACCCCTCGG GGTCTCaAGA CagatcCATC CGTTCACTGc ctaggtgtac
+       61 ataagtcgaa tacactggtt ccattagtat ctcaggtcat tgtcactgct catcggcaca
+      121 gccacagtat gaatcagcgc acataaactc tttagcatct acatataact ctacagacag
+      181 atctGGATGt acagCGAAcG AGACCgggag gagcacaaag tccgctcagc ttcgcctcgt
+      241 ggggagagat gcgggataat aagcaactct agggcaggaa agtgcctgct gacgaattgg
+      301 tctggcatgg attccacact ataggatagt ACAGGGTATA TTGAGTGCCC CACTGAACCT
+      361 GTTGGCGGGG TTAGGGATAA CAGGGTAATA ACAGAATCCC CTTCGGTGTA
+//

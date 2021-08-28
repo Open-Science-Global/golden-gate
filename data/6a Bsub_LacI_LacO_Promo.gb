@@ -1,0 +1,188 @@
+LOCUS       6a:_Bsub_LacI_LacO_Prom 1710 bp ds-DNA     linear       27-AUG-2021
+DEFINITION  .
+SOURCE      synthetic DNA construct                                            
+  ORGANISM  synthetic DNA construct                                            
+FEATURES             Location/Qualifiers
+     Match           16..21
+                     /label="Forbidden sequence | GAAGAC"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     misc_feature    16..21
+                     /label="BbsI Bind"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     GG              24..27
+                     /label="2"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Match           35..40
+                     /label="Forbidden sequence | GCGATG"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     misc_feature    35..40
+                     /label="BtgzI bind"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           40..45
+                     /label="Forbidden sequence | GGTCTC"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     misc_feature    40..45
+                     /label="BsaI Bind"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     GG              47..50
+                     /label="A"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     GG              51..54
+                     /label="rec5"
+                     /ApEinfo_revcolor=#d6b295
+                     /ApEinfo_fwdcolor=#d6b295
+     misc_feature    51..1565
+                     /label="pHT43 LacI fragment"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     CDS             complement(75..1157)
+                     /label="Translation 1161-79"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     CDS             complement(75..1157)
+                     /label="lacI CDS"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     exon            complement(75..1157)
+                     /label="Translation 1157-75"
+     exon            complement(75..1157)
+                     /label="Translation 1157-75"
+     misc_feature    192..197
+                     /label="Removed_BsmBI"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+     misc_binding    396..404
+                     /label="DnaA binding site"
+                     /ApEinfo_revcolor=#d59687
+                     /ApEinfo_fwdcolor=#d59687
+     misc_feature    1164..1164
+                     /label=":( - rather not change promoter"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Match           1340..1347
+                     /label="Forbidden sequence | ATTTAAAT"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     Match           1340..1347
+                     /label="Forbidden sequence | ATTTAAAT"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     Match           1355..1360
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     Match           1401..1406
+                     /label="Forbidden sequence | GGTACC"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           1401..1406
+                     /label="Forbidden sequence | GGTACC"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    1406..1565
+                     /label="extra sequence compared to old version?"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     Match           1487..1492
+                     /label="Forbidden sequence | TTTTTT"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     protein_bind    1541..1565
+                     /label="The lac repressor binds to the lac operator to inhibit transcription in E. coli. This inhibition can be relieved by adding lactose or isopropyl-beta-D-thiogalactopyranoside (IPTG)."
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     GG              1566..1569
+                     /label="RBSLoc"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     GG              1570..1573
+                     /label="Ins"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     Match           1574..1580
+                     /label="Forbidden sequence | GCAGGTG"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(1574..1580)
+                     /label="AarI Bind"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     Match           1584..1589
+                     /label="Forbidden sequence | CATCGC"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    complement(1584..1589)
+                     /label="BtgzI Bind"
+                     /ApEinfo_revcolor=#85dae9
+                     /ApEinfo_fwdcolor=#85dae9
+     Insulator       1590..1664
+                     /label="RiboJ54"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    1595..1596
+                     /label="RiboJ_cutSite"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     GG              complement(1665..1668)
+                     /label="RBSLOC"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           1670..1675
+                     /label="Forbidden sequence | GAGACC"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     misc_feature    complement(1670..1675)
+                     /label="BsaI Bind"
+                     /ApEinfo_revcolor=#b1ff67
+                     /ApEinfo_fwdcolor=#b1ff67
+     misc_feature    complement(1684..1687)
+                     /label="6"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     Match           1690..1695
+                     /label="Forbidden sequence | GTCTTC"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+     misc_feature    complement(1690..1695)
+                     /label="BbsI Bind"
+                     /ApEinfo_revcolor=#c6c9d1
+                     /ApEinfo_fwdcolor=#c6c9d1
+ORIGIN
+        1 AGAGCCTTAT GGTCCGAAGA CTTGGAGaat agacGCGATG GTCTCtGGAG ATTCtcacat
+       61 taattgcgtt gcgctcactg cccgctttcc agtcgggaaa cctgtcgtgc cagctgcatt
+      121 aatgaatcgg ccaacgcgcg gggagaggcg gtttgcgtat tgggcgccag ggtggttttt
+      181 cttttcacca gagatacggg caacagctga ttgcccttca ccgcctggcc ctgagagagt
+      241 tgcagcaagc ggtccacgct ggtttgcccc agcaggcgaa aatcctgttt gatggtggtt
+      301 gacggcggga tataacatga gctatcctcg gtatcgtcgt atcccactac cgagatatcc
+      361 gcaccaacgc gcagcccgga ctcggtaatg gcgcgcattg cgcccagcgc catctgatcg
+      421 ttggcaacca gcatagcagt gggaacgatg ccctcattca gcatttgcat ggtttgttga
+      481 aaaccggaca tggcactcca gtcgccttcc cgttccgcta tcggctgaat ttgattgcga
+      541 gtgagatatt tatgccagcc agccagacgc agacgcgccg agacagaact taatgggccc
+      601 gctaacagcg cgatttgctg gtgacccaat gcgaccagat gctccacgcc cagtcgcgta
+      661 ccatcctcat gggagaaaat aatactgttg atgggtgtct ggtcagagac atcaagaaat
+      721 aacgccggaa cattagtgca ggcagcttcc acagcaatgg catcctggtc atccagcgga
+      781 tagttaatga tcagcccact gacgcgttgc gcgagaagat tgtgcaccgc cgctttacag
+      841 gcttcgacgc cgcttcgttc taccatcgac accaccacgc tggcacccag ttgatcggcg
+      901 cgagatttaa tcgccgcgac aatttgcgac ggcgcgtgca gggccagact ggaggtggca
+      961 acgccaatca gcaacgactg tttgcccgcc agttgttgtg ccacgcggtt gggaatgtaa
+     1021 ttcagctccg ccatagccgc ttccactttt tcccgcgttt tcgcagaaac gtggctggcc
+     1081 tggttcacca cgcgggaaac ggtctgataa gagacaccgg catactctgc gacatcgtat
+     1141 aacgttactg gtttcatcaa aatcgtctcc ctccgtttga atatttgatt gatcgtaacc
+     1201 agatgaagca ctctttccac tatccctaca gtgttatggc ttgaacaatc acgaaacaat
+     1261 aattggtacg tacgatcttt cagccgactc aaacatcaaa tcttacaaat gtagtctttg
+     1321 aaagtattac atatgtaaga tttaaatgca accgtttttt cggaaggaaa tgatgacctc
+     1381 gtttccaccg gaattagctt ggtaccagct attgtaacat aatcggtacg ggggtgaaaa
+     1441 agctaacgga aaagggagcg gaaaagaatg atgtaagcgt gaaaaatttt ttatcttatc
+     1501 acttgaaatt ggaagggaga ttctttatta taagaattgt ggaattgtga gcggataaca
+     1561 attccTACTA ACAgcaggtg GTACATCGCA GGGGTCAGTT GATGTGCTTT CAACTCTGAT
+     1621 GAGTCAGTGA TGACGAAACC CCCTCTACAA ATAATTTTGT TTAATACTtG AGACCacatg
+     1681 atgCGCTAGG TCTTCCGGCT AGGTCAAATA
+//

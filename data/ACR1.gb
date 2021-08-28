@@ -1,0 +1,10 @@
+LOCUS       ACR1                     296 bp ds-DNA     linear       27-AUG-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 AACGATGATG CTCACTCTCG tcGGTCTCaC GCTTGACgtG TCTTCcaaga ctgtagcttc
+       61 cgccgccgac taacgttcga cgtaccatgt taattacatg gggttctcta cctccatctc
+      121 gcgtgaatat tggctgttcg gccagtacgg aaggttgcat gggatagatg ttcatctagt
+      181 gaccatccAC TAGTgcaCTG CAGAGACtGA GACCagATCC TAGAAAAGGC GAAGGCGCTA
+      241 ACCGCTGGGG CTTAAATTAG GGATAACAGG GTAATCAAGG CGTTTTCCGC GGGGAG
+//

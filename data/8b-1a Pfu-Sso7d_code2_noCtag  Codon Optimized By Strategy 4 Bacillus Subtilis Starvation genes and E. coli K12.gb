@@ -1,0 +1,121 @@
+LOCUS       8b-1a:_Pfu-Sso7d_code2_ 2623 bp ds-DNA     linear       27-AUG-2021
+DEFINITION  .
+FEATURES             Location/Qualifiers
+     Match           16..21
+                     /label="Forbidden sequence | GAAGAC"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     Match           16..21
+                     /label="Forbidden sequence | GAAGAC"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     misc_feature    24..27
+                     /label="2"
+                     /ApEinfo_revcolor=#f8d3a9
+                     /ApEinfo_fwdcolor=#f8d3a9
+     Match           36..41
+                     /label="Forbidden sequence | GGTCTC"
+                     /ApEinfo_revcolor=#9eafd2
+                     /ApEinfo_fwdcolor=#9eafd2
+     Match           36..41
+                     /label="Forbidden sequence | GGTCTC"
+                     /ApEinfo_revcolor=#ff9ccd
+                     /ApEinfo_fwdcolor=#ff9ccd
+     GG              43..46
+                     /label="CS"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     misc_feature    44..2365
+                     /label="Pfu Polymerase"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     misc_feature    44..2575
+                     /label="Pfu-Sso7d"
+                     /ApEinfo_revcolor=#c7b0e3
+                     /ApEinfo_fwdcolor=#c7b0e3
+     exon            44..2581
+                     /label="Translation 44-2581"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     misc_feature    2366..2386
+                     /label="flexible linker"
+                     /ApEinfo_revcolor=#ffef86
+                     /ApEinfo_fwdcolor=#ffef86
+     misc_feature    2387..2575
+                     /label="sso7d"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     misc_feature    2576..2581
+                     /label="GS linker"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     GG              2578..2581
+                     /label="C1"
+                     /ApEinfo_revcolor=#faac61
+                     /ApEinfo_fwdcolor=#faac61
+     Match           2583..2588
+                     /label="Forbidden sequence | GAGACC"
+                     /ApEinfo_revcolor=#b7e6d7
+                     /ApEinfo_fwdcolor=#b7e6d7
+     Match           2583..2588
+                     /label="Forbidden sequence | GAGACC"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     misc_feature    2597..2600
+                     /label="6"
+                     /ApEinfo_revcolor=#84b0dc
+                     /ApEinfo_fwdcolor=#84b0dc
+     Match           2603..2608
+                     /label="Forbidden sequence | GTCTTC"
+                     /ApEinfo_revcolor=#f58a5e
+                     /ApEinfo_fwdcolor=#f58a5e
+     Match           2603..2608
+                     /label="Forbidden sequence | GTCTTC"
+                     /ApEinfo_revcolor=#b4abac
+                     /ApEinfo_fwdcolor=#b4abac
+ORIGIN
+        1 AGAGCCTTAT GGTCCGAAGA CACGGAGTCC CGCCCGGTCT CTAATGATCT TGGATGTGGA
+       61 TTACATAACT GAAGAAGGGA AACCAGTTAT CCGTTTGTTT AAGAAAGAAA ACGGAAAATT
+      121 CAAGATTGAA CATGACCGCA CGTTCCGCCC ATATATTTAT GCACTGCTGA GAGATGACTC
+      181 CAAAATAGAG GAAGTTAAGA AAATAACCGG CGAGAGGCAT GGAAAAATCG TGCGCATAGT
+      241 CGATGTCGAA AAAGTAGAGA AGAAATTCCT GGGGAAACCA ATCACAGTGT GGAAGTTGTA
+      301 TTTGGAACAC CCACAAGATG TCCCGACTAT AAGGGAAAAG GTGCGCGAAC ATCCCGCCGT
+      361 TGTAGATATC TTCGAGTATG ATATTCCGTT TGCAAAAAGA TACCTTATAG ATAAAGGCTT
+      421 AATTCCAATG GAAGGCGAGG AAGAACTGAA AATACTGGCT TTTGACATTG AAACTTTATA
+      481 TCATGAAGGA GAAGAATTTG GCAAGGGGCC TATAATAATG ATCTCCTACG CGGATGAAAA
+      541 CGAGGCAAAA GTCATCACGT GGAAAAACAT AGACTTGCCC TATGTGGAGG TTGTATCTTC
+      601 AGAACGCGAA ATGATTAAAC GATTTTTACG AATTATTAGA GAAAAGGACC CTGACATCAT
+      661 CGTCACCTAC AATGGAGATT CATTTGATTT TCCATATTTA GCAAAGCGCG CTGAAAAGTT
+      721 GGGCATTAAG TTAACGATCG GCCGGGACGG GTCGGAACCG AAGATGCAAA GAATCGGGGA
+      781 TATGACGGCA GTAGAAGTAA AAGGGAGAAT CCATTTCGAT CTTTATCATG TTATTACCCG
+      841 GACAATCAAC TTGCCGACAT ACACATTGGA GGCGGTTTAC GAAGCGATCT TCGGTAAGCC
+      901 GAAAGAAAAA GTGTATGCGG ACGAAATCGC AAAGGCGTGG GAGTCCGGTG AGAACTTGGA
+      961 ACGCGTCGCG AAATATTCGA TGGAGGACGC CAAGGCCACC TATGAATTGG GGAAAGAATT
+     1021 TTTACCAATG GAAATACAGC TGTCACGCTT GGTCGGCCAA CCATTGTGGG ATGTATCCAG
+     1081 AAGCTCAACG GGCAACTTAG TGGAGTGGTT CTTACTGCGA AAGGCTTACG AGAGAAATGA
+     1141 AGTTGCACCT AATAAACCCT CGGAAGAGGA ATACCAGCGC CGATTGCGAG AATCTTACAC
+     1201 GGGTGGGTTC GTCAAAGAGC CAGAGAAAGG TTTATGGGAA AACATAGTGT ACTTAGATTT
+     1261 TCGTGCTTTG TATCCATCCA TTATTATCAC TCACAATGTG AGCCCCGACA CGCTGAATCT
+     1321 TGAAGGTTGT AAGAACTATG ATATTGCACC GCAAGTGGGT CACAAATTCT GCAAAGATAT
+     1381 ACCTGGCTTC ATTCCGTCAC TGCTTGGTCA TTTACTGGAA GAACGCCAAA AGATCAAAAC
+     1441 CAAGATGAAG GAAACGCAAG ACCCCATCGA GAAGATTCTT CTGGATTACA GACAGAAAGC
+     1501 GATCAAACTT TTGGCCAATA GCTTTTATGG TTACTATGGC TACGCGAAGG CTAGATGGTA
+     1561 CTGCAAGGAG TGCGCGGAGT CAGTGACGGC TTGGGGTAGA AAATATATCG AACTTGTTTG
+     1621 GAAAGAGTTG GAAGAAAAAT TCGGCTTTAA AGTATTGTAT ATCGACACCG ATGGACTGTA
+     1681 CGCGACCATT CCGGGAGGGG AGAGCGAGGA AATTAAGAAG AAAGCGTTGG AGTTCGTCAA
+     1741 GTACATTAAC TCAAAGTTAC CAGGACTGTT GGAACTGGAA TACGAAGGAT TCTATAAACG
+     1801 AGGTTTCTTT GTTACTAAGA AACGATACGC GGTTATAGAT GAGGAGGGTA AAGTTATCAC
+     1861 AAGGGGTTTA GAAATTGTAC GACGCGATTG GTCAGAGATC GCCAAAGAAA CCCAGGCGCG
+     1921 TGTGTTGGAA ACTATCCTGA AACACGGAGA TGTTGAGGAG GCCGTGCGTA TCGTTAAAGA
+     1981 AGTAATCCAG AAGTTGGCCA ACTATGAGAT ACCACCGGAG AAATTGGCCA TTTATGAGCA
+     2041 GATAACCCGG CCATTGCACG AATATAAGGC CATTGGTCCG CATGTTGCAG TCGCGAAGAA
+     2101 ATTAGCAGCG AAGGGGGTGA AAATCAAGCC GGGGATGGTA ATCGGCTATA TTGTATTGAG
+     2161 AGGTGATGGA CCAATCTCCA ATCGTGCAAT CCTGGCGGAA GAGTATGACC CCAAAAAGCA
+     2221 CAAGTATGAT GCAGAGTATT ACATTGAAAA CCAGGTACTT CCGGCAGTTT TACGTATTCT
+     2281 GGAAGGATTT GGCTATCGCA AGGAGGATCT TAGGTATCAG AAAACTCGTC AGGTCGGTCT
+     2341 GACTTCCTGG TTAAACATCA AAAAGTCCGG CACCGGTGGT GGGGGTGCGA CAGTGAAGTT
+     2401 CAAATACAAA GGGGAAGAAA AGGAAGTAGA CATTAGCAAG ATCAAGAAGG TGTGGCGCGT
+     2461 CGGTAAGATG ATTTCTTTCA CCTATGACGA AGGCGGAGGA AAGACCGGCC GGGGAGCGGT
+     2521 ATCTGAAAAG GACGCGCCCA AAGAACTGTT ACAGATGTTA GAAAAACAGA AGAAAGGAGG
+     2581 TTGAGACCTG ATATTTCGCT CCGTCTTCCG GCTAGGTCAA ATA
+//
