@@ -10,7 +10,9 @@ import (
 
 func ExampleSimulateGoldenGateLinearFragments() {
 
-	dir, _ := ioutil.ReadDir("./data")
+	root := "./data/linearSequences/"
+
+	dir, _ := ioutil.ReadDir(root)
 
 	var files []string
 	for _, f := range dir {
@@ -19,9 +21,30 @@ func ExampleSimulateGoldenGateLinearFragments() {
 
 	var sequences []poly.Sequence
 	for _, file := range files {
-		sequences = append(sequences, genbank.Read("./data/"+file))
+		sequences = append(sequences, genbank.Read(root+file))
 	}
-	finalPlasmid := SimulateGoldenGateLinearFragments(sequences, "BsaI")
+	finalPlasmid := SimulateGoldenGate(sequences, "BsaI")
 	fmt.Println(len(finalPlasmid[0].Sequence), finalPlasmid[0].Circular)
 	// Output: 10363 true
+}
+
+func ExampleSimulateGoldenGateCircularFragments() {
+
+	root := "./data/circularSequences/"
+
+	dir, _ := ioutil.ReadDir(root)
+
+	var files []string
+	for _, f := range dir {
+		files = append(files, f.Name())
+	}
+
+	var sequences []poly.Sequence
+	for _, file := range files {
+		sequences = append(sequences, genbank.Read(root+file))
+	}
+	finalPlasmid := SimulateGoldenGate(sequences, "BbsI")
+	fmt.Println(finalPlasmid)
+	// Output: More than 1 cloned sequence simulated in basic genes
+	// []
 }

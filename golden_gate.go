@@ -7,10 +7,10 @@ import (
 	"github.com/Open-Science-Global/poly/clone"
 )
 
-func SimulateGoldenGateLinearFragments(sequences []poly.Sequence, enzymeStr string) []clone.Part {
+func SimulateGoldenGate(sequences []poly.Sequence, enzymeStr string) []clone.Part {
 	var fragments []clone.Part
 	for _, sequence := range sequences {
-		fragments = append(fragments, clone.Part{sequence.Sequence, false})
+		fragments = append(fragments, clone.Part{sequence.Sequence, sequence.Meta.Locus.Circular})
 	}
 
 	clonedFragments, err := clone.GoldenGate(fragments, enzymeStr)
